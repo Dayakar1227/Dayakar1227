@@ -36,7 +36,7 @@ An intelligent, data-driven system assisting farmers with automated crop recomme
 
 ### 📬 Connect with Me
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/thamada-dayakar-4884a4373/))
+- 💼 https://www.linkedin.com/in/thamada-dayakar-4884a4373/
 - 📧 dayakarvarma1@gmail.com
  
 
